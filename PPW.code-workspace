@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Documents/KULIAH/semester 2/PPW"
+		},
+		{
+			"path": "../../../OneDrive/Documents/KULIAH/semester 2/PPBO"
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "CodeGPT Plus Beta",
+		"liveServer.settings.port": 5501
+	}
+}
